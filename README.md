@@ -1,2 +1,2 @@
 # hw1b
-![](images/Fixedwebpage%20.png)
+![](images/fixedwebpage%20.png)
